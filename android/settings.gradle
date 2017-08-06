@@ -1,0 +1,3 @@
+rootProject.name = 'PRJ_P2P'
+
+include ':app'
